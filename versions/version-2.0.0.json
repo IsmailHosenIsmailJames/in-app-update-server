@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "changes": "new big change",
+  "files": [
+    {
+      "filename": "app-armeabi-v7a-release.apk",
+      "path": "/uploads/app-armeabi-v7a-release.apk"
+    },
+    {
+      "filename": "app-x86_64-release.apk",
+      "path": "/uploads/app-x86_64-release.apk"
+    },
+    {
+      "filename": "app-arm64-v8a-release.apk",
+      "path": "/uploads/app-arm64-v8a-release.apk"
+    }
+  ]
+}
